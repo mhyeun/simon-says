@@ -7,3 +7,5 @@ The sequence is randomized with four distinct colours, and after each correct ro
 This was the final project for the 1A term. This project was completed with three other group members.
 Coded in ROBOTC and executed by an EV3 robot.
 
+# Photo
+![front](images/front.jpg)
